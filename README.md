@@ -1,5 +1,6 @@
 # Oracle Space Hunt
 
+
 Minimal dedicated GitHub Actions repo for safely hunting Oracle Always Free A1 capacity.
 
 [![Oracle Space Hunt](https://github.com/Leebartea/oracle-space-hunt/actions/workflows/oracle-space-hunt.yml/badge.svg)](https://github.com/Leebartea/oracle-space-hunt/actions/workflows/oracle-space-hunt.yml)
